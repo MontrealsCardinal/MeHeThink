@@ -6,15 +6,15 @@
 # --- Required options --- #
 
 # Name of website
-title: Me He Thinks
+title: MeHe Thinks
 
 # Your name to show in the footer
-author: Me He
+author: MeHe
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "about MeHe"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
